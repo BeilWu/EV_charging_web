@@ -17,7 +17,7 @@ cnpm -v
 若没有安装cnpm，可以直接在cmd里执行如下命令，利用淘宝镜像安装cnpm：
 npm install -g cnpm -registry=https://registry.npm.taobao.org
 
-然后再用cnpm 安装依赖包（直接打开cmd运行即可）
+然后再用cnpm 安装依赖包（在项目根目录执行）
 cnpm install
 
 3. 在本地运行项目localhost:9528
